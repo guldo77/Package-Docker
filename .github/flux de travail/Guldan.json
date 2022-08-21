@@ -15,6 +15,7 @@ permissions:
   pages: write
   id-token: write
 
+Author: Guldan
 # Allow one concurrent deployment
 concurrency:
   group: "pages"
